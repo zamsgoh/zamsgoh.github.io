@@ -13,4 +13,4 @@
 
 **Management Associate @ SMRT Trains (_Jul 2016 - Oct 2021)**
 - Oversaw the overhaul of vehicle powertrain of North-South, East-West and Circle Line trains across two workshops.
-- Using data analytics to drive maintenance and inventory optimisation
+- Using data analytics to drive maintenance and inventory optimisation, resulting in substantial costing savings in millions while maintaining high reliability.
